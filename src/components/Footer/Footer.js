@@ -43,7 +43,7 @@ function Footer(props) {
           </nav>
           <div className="credits ml-auto">
             <div className="copyright">
-              &copy; {1900 + new Date().getYear()}, made with{" "}
+              &copy; {1900 + new Date().getYear()}, made with{"Alan Nahum Gomez Hernandez"}
               <i className="fa fa-heart heart" /> by Luis Luna
             </div>
           </div>
